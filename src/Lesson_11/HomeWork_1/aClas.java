@@ -1,6 +1,6 @@
 package Lesson_11.HomeWork_1;
 
-public abstract class aClas {
+public  class aClas {
     private int a=10;
 
     public aClas(int a) {
